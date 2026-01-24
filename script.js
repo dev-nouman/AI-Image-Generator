@@ -1,3 +1,5 @@
+// save variables
+
 const themeToggle = document.querySelector(".theme-toggle");
 const promptForm = document.querySelector(".prompt-form");
 const promptBtn = document.querySelector(".prompt-btn");
