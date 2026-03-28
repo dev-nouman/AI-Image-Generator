@@ -13,3 +13,4 @@ To run this project locally on your machine, you must:
 Without a valid Hugging Face account and API token, the project will not run locally.
 
 ---
+---
